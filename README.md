@@ -8,3 +8,4 @@ Semua kode di repository ini mengambil referensi dari blog [Whats new in PHP 8](
 - Union type
 - Nullsafe operator
 - Named argument
+- Constructor property promotion
